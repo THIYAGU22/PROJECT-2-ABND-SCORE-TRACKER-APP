@@ -11,3 +11,7 @@ CONCEPTS:
 3.Properly scoping variables
 
 4.Finding views by their ID
+
+SCREENSHOTS:
+
+![Screenshot](https://user-images.githubusercontent.com/27724580/27986564-57349870-63b5-11e7-9a93-e9375f8a41f2.png)
